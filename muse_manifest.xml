@@ -1,0 +1,99 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433809398142">
+  <folder name="css">
+    <file name="site_global.css" crc="437838165"/>
+    <file name="master_c.css" crc="153940895" ref="resume"/>
+    <file name="master_b.css" crc="3771310117" ref="index"/>
+    <file name="master_d.css" crc="405235959" ref="videography:photography:design:3d"/>
+    <file name="master_e.css" crc="498966381" ref="contact"/>
+    <file name="master_f.css" crc="3794034902" ref="portfolio"/>
+    <file name="portfolio.css" crc="180789873" ref="portfolio"/>
+    <file name="videography.css" crc="18590952" ref="videography"/>
+    <file name="photography.css" crc="26428905" ref="photography"/>
+    <file name="index.css" crc="4074172144" ref="index"/>
+    <file name="design.css" crc="274347440" ref="design"/>
+    <file name="contact.css" crc="4237664996" ref="contact"/>
+    <file name="3d.css" crc="3976334761" ref="3d"/>
+    <file name="resume.css" crc="3904877374" ref="resume"/>
+  </folder>
+  <folder name="assets">
+    <file name="jacquescreative_cv.pdf" crc="255097378" mt="1433798538000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>about-me:phone>portfolio:phone>design:phone>3d:phone>photography:phone>videography:phone>resume:phone>contact:index:contact:resume:portfolio:photography:design:3d:videography"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>about-me:phone>portfolio:phone>design:phone>3d:phone>photography:phone>videography:phone>resume:phone>contact:index:contact:resume:portfolio:photography:design:3d:videography"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="phone>index:phone>about-me:phone>portfolio:phone>design:phone>3d:phone>photography:phone>videography:phone>resume:phone>contact:index:contact:resume:portfolio:photography:design:3d:videography"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>about-me:phone>portfolio:phone>design:phone>3d:phone>photography:phone>videography:phone>resume:phone>contact:index:contact:resume:portfolio:photography:design:3d:videography"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:contact:resume:portfolio:photography:design:3d:videography"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:resume:portfolio:photography:design:3d:videography"/>
+    <file name="webpro.js" crc="220831917" ref="contact:photography:3d"/>
+    <file name="form_check.php" crc="218543696" ref="contact"/>
+    <file name="form_throttle.php" crc="3988545917" ref="contact"/>
+    <file name="form_process.php" crc="4264751530" ref="contact"/>
+    <file name="form-u1613.php" crc="189191910" ref="contact"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="photography:3d"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="photography:3d"/>
+    <file name="touchswipe.js" crc="325405309" ref="photography:3d"/>
+  </folder>
+  <folder name="images">
+    <file name="113h.jpg" crc="406889408" ref="phone>index"/>
+    <file name="098a4532.jpg" crc="47131898" ref="phone>about-me:index"/>
+    <file name="1h.jpg" crc="3778443790" ref="phone>portfolio:phone>design:phone>3d:phone>photography:phone>videography:photography:design:3d:videography"/>
+    <file name="25h.jpg" crc="497305978" ref="phone>resume:resume"/>
+    <file name="14h.jpg" crc="460785023" ref="phone>contact:contact"/>
+    <file name="jacques_design_logo_finalhq-01.png" crc="38057932" ref="index:contact:resume:portfolio:photography:design:3d:videography"/>
+    <file name="u1614-17.png" crc="4139447655" ref="contact"/>
+    <file name="u1614-17-r.png" crc="427189461" ref="contact"/>
+    <file name="u1614-17-m.png" crc="273812528" ref="contact"/>
+    <file name="u1614-17-fs.png" crc="159636206" ref="contact"/>
+    <file name="59h.jpg" crc="4223631321" ref="portfolio"/>
+    <file name="portfolio_icon_graphic-04.png" crc="37261877" ref="portfolio"/>
+    <file name="portfolio_icon_graphic-03.png" crc="4191514997" ref="portfolio"/>
+    <file name="portfolio_icon_graphic-02.png" crc="3763864117" ref="portfolio"/>
+    <file name="portfolio_icon_graphic-01.png" crc="4067334716" ref="portfolio"/>
+    <file name="img_3333.jpg" crc="3812778765" ref="photography"/>
+    <file name="blank.gif" crc="4208392903" ref="photography"/>
+    <file name="img_3334.jpg" crc="64284463" ref="photography"/>
+    <file name="img_3309.jpg" crc="267730397" ref="photography"/>
+    <file name="img_3306.jpg" crc="4221431502" ref="photography"/>
+    <file name="img_3336.jpg" crc="476780702" ref="photography"/>
+    <file name="img_3324.jpg" crc="4181672394" ref="photography"/>
+    <file name="img_3318.jpg" crc="167052323" ref="photography"/>
+    <file name="img_333360x40.jpg" crc="271192888" ref="photography"/>
+    <file name="img_333460x40.jpg" crc="56349418" ref="photography"/>
+    <file name="img_330960x40.jpg" crc="4249543329" ref="photography"/>
+    <file name="img_330630x46.jpg" crc="4226327471" ref="photography"/>
+    <file name="img_333660x40.jpg" crc="4219509723" ref="photography"/>
+    <file name="img_331860x40.jpg" crc="4190159527" ref="photography"/>
+    <file name="loading.gif" crc="3815509949" ref="photography"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="photography.css" crc="4168080974" ref="phone>photography"/>
+      <file name="about-me.css" crc="172551631" ref="phone>about-me"/>
+      <file name="portfolio.css" crc="4168080974" ref="phone>portfolio"/>
+      <file name="videography.css" crc="4168080974" ref="phone>videography"/>
+      <file name="design.css" crc="4168080974" ref="phone>design"/>
+      <file name="resume.css" crc="3815591011" ref="phone>resume"/>
+      <file name="contact.css" crc="36457403" ref="phone>contact"/>
+      <file name="3d.css" crc="4168080974" ref="phone>3d"/>
+      <file name="index.css" crc="512405535" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4137936478" mt="1433601832064" redirect="false"/>
+    <file name="about-me.html" crc="4013384804" mt="1433601733143" redirect="false"/>
+    <file name="portfolio.html" crc="471138091" mt="1433478947305" redirect="false"/>
+    <file name="design.html" crc="253159714" mt="1433478947306" redirect="false"/>
+    <file name="3d.html" crc="3769931765" mt="1433478947307" redirect="false"/>
+    <file name="photography.html" crc="4072987647" mt="1433478947308" redirect="false"/>
+    <file name="videography.html" crc="385523160" mt="1433478947309" redirect="false"/>
+    <file name="resume.html" crc="4259123410" mt="1433478947309" redirect="false"/>
+    <file name="contact.html" crc="82486214" mt="1433478947310" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3859049948" mt="1433809105836" redirect="true"/>
+  <file name="contact.html" crc="14032543" mt="1433809128528" redirect="true"/>
+  <file name="resume.html" crc="3983248295" mt="1433809093562" redirect="true"/>
+  <file name="portfolio.html" crc="341095745" mt="1433809367776" redirect="true"/>
+  <file name="photography.html" crc="4239965937" mt="1433809113401" redirect="true"/>
+  <file name="design.html" crc="197000541" mt="1433809113401" redirect="true"/>
+  <file name="3d.html" crc="4215671310" mt="1433809113401" redirect="true"/>
+  <file name="videography.html" crc="3871694957" mt="1433809113401" redirect="true"/>
+</manifest>
